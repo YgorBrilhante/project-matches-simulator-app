@@ -1,7 +1,7 @@
 # 📱🤾‍♀️Matches Simulator App
 
 Native Android App for Match Simulation. 
-The concepts of:
+Applying the concepts of:
 
 1. Native Mobile Development For Android
 1. Components, Layouts and UI/UX in Android Apps
